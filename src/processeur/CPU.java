@@ -1,4 +1,4 @@
-package processeur.models;
+package processeur;
 
 import java.text.DecimalFormat;
 
