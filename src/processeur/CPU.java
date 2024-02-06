@@ -1,7 +1,7 @@
 package processeur;
 
 import java.text.DecimalFormat;
-
+ 
 /**
  * Application "CPU".
  *
